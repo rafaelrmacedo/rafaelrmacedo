@@ -9,7 +9,7 @@
 ## Estou aprendendo:
 - C#
 - Java e Spring Boot
-- React JS
+- Python
 
 ## Minha atividade:
 <div>
@@ -40,7 +40,7 @@
 ## I'm learning:
 - C#
 - Java and Spring Boot
-- React JS
+- Python
 
 ## My coding activity:
 <div>
