@@ -8,8 +8,9 @@
 
 ## Estou aprendendo:
 - C
-- Java
+- Java e Spring Boot
 - Python
+- React JS
 
 ## Minha atividade:
 <div>
@@ -39,8 +40,9 @@
 
 ## I'm learning:
 - C
-- Java
+- Java and Spring Boot
 - Python
+- React JS
 
 ## My coding activity:
 <div>
