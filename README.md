@@ -10,6 +10,7 @@
 - C#
 - Java e Spring Boot
 - Python
+- React JS
 
 ## Minha atividade:
 <div>
@@ -41,6 +42,7 @@
 - C#
 - Java and Spring Boot
 - Python
+- React JS
 
 ## My coding activity:
 <div>
