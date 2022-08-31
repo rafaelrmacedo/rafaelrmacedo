@@ -7,9 +7,8 @@
 - 🖥️ 3º ano/4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- C
+- C#
 - Java e Spring Boot
-- Python
 - React JS
 
 ## Minha atividade:
@@ -39,9 +38,8 @@
 
 
 ## I'm learning:
-- C
+- C#
 - Java and Spring Boot
-- Python
 - React JS
 
 ## My coding activity:
