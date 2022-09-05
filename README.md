@@ -9,7 +9,6 @@
 ## Estou aprendendo:
 - C#
 - Java e Spring Boot
-- Python
 - React JS
 
 ## Minha atividade:
@@ -41,7 +40,6 @@
 ## I'm learning:
 - C#
 - Java and Spring Boot
-- Python
 - React JS
 
 ## My coding activity:
