@@ -7,7 +7,7 @@
 - 🖥️ 3º ano/4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- NodeJS
+- NodeJS e ExpressJS
 - Java e Spring Boot
 
 ## Minha atividade:
@@ -37,7 +37,7 @@
 
 
 ## I'm learning:
-- NodeJS
+- NodeJS and ExpressJS
 - Java and Spring Boot
 
 ## My coding activity:
