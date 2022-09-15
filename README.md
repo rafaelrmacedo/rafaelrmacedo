@@ -22,6 +22,11 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
 
+## Extra:
+<div>
+ - Eu estudo Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
+</div>
+
 <hr>
 
 <!--PORTFOLIO EM INGLÊS-->
@@ -51,6 +56,11 @@
 ## My social networks:
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
+
+## Extra:
+<div>
+ - I study hacking at TryHackMe. Click <a href="https://tryhackme.com/p/rafaelrm">here</a> to view my profile.
+</div>
 
 <!--
 OUTRAS IDEIAS
