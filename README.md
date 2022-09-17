@@ -7,8 +7,8 @@
 - 🖥️ 3º ano/4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- NodeJS e ExpressJS
-- Java e Spring Boot
+- C junto de Estrutura de Dados
+- Java
 
 ## Minha atividade:
 <div>
@@ -42,8 +42,8 @@
 
 
 ## I'm learning:
-- NodeJS and ExpressJS
-- Java and Spring Boot
+- C with Data Structures
+- Java
 
 ## My coding activity:
 <div>
