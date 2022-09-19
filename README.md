@@ -7,7 +7,7 @@
 - 🖥️ 3º ano/4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- C junto de Estrutura de Dados
+- C++
 - Java
 
 ## Minha atividade:
@@ -24,7 +24,7 @@
 
 ## Extra:
 <div>
- - Eu estudo Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
+ - Eu estudo/pratico Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
 </div>
 
 <hr>
@@ -42,7 +42,7 @@
 
 
 ## I'm learning:
-- C with Data Structures
+- C++
 - Java
 
 ## My coding activity:
@@ -59,7 +59,7 @@
 
 ## Extra:
 <div>
- - I study hacking at TryHackMe. Click <a href="https://tryhackme.com/p/rafaelrm">here</a> to view my profile.
+ - I study/practice hacking at TryHackMe. Click <a href="https://tryhackme.com/p/rafaelrm">here</a> to view my profile.
 </div>
 
 <!--
