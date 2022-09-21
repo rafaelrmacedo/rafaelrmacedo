@@ -7,8 +7,9 @@
 - 🖥️ 3º ano/4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- C++
 - Java
+- NodeJS
+- C++
 
 ## Minha atividade:
 <div>
@@ -42,8 +43,9 @@
 
 
 ## I'm learning:
-- C++
 - Java
+- NodeJS
+- C++
 
 ## My coding activity:
 <div>
