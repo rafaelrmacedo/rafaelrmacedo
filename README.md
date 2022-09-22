@@ -8,7 +8,7 @@
 
 ## Estou aprendendo:
 - Java
-- NodeJS
+- C#
 - C++
 
 ## Minha atividade:
@@ -44,7 +44,7 @@
 
 ## I'm learning:
 - Java
-- NodeJS
+- C#
 - C++
 
 ## My coding activity:
