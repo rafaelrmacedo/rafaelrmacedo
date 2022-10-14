@@ -23,10 +23,10 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
 
-## Extra:
-<div>
-- Eu estudo/pratico Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
-</div>
+<!--## Extra:
+//<div>
+//- Eu estudo/pratico Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
+</div> -->
 
 <hr>
 
@@ -59,12 +59,12 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
 
-## Extra:
+<!-- ## Extra:
 <div>
 - I study/practice hacking at TryHackMe. Click <a href="https://tryhackme.com/p/rafaelrm">here</a> to view my profile.
-</div>
+</div> 
 
-<!--
+
 OUTRAS IDEIAS
 **rafaelrmacedo/rafaelrmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
