@@ -23,10 +23,9 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
 
-<!--## Extra:
-//<div>
-//- Eu estudo/pratico Hacking no TryHackMe. Clique <a href="https://tryhackme.com/p/rafaelrm">aqui</a> para ver meu perfil.
-</div> -->
+## Extra:
+
+- Eu também estudo e pratico C++ no Exercism. Clique <a href="[(https://exercism.org/tracks/cpp/exercises)">aqui</a> para ver.
 
 <hr>
 
@@ -59,12 +58,12 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
 
-<!-- ## Extra:
-<div>
-- I study/practice hacking at TryHackMe. Click <a href="https://tryhackme.com/p/rafaelrm">here</a> to view my profile.
-</div> 
+## Extra:
+  
+- I study and practice C++ at Exercism as well. Click <a href="https://exercism.org/tracks/cpp/exercises">here</a> to view.
 
 
+<!--
 OUTRAS IDEIAS
 **rafaelrmacedo/rafaelrmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
