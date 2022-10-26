@@ -25,7 +25,7 @@
 
 ## Extra:
 
-- Eu também estudo e pratico C++ no Exercism. Clique <a href="[(https://exercism.org/tracks/cpp/exercises)">aqui</a> para ver.
+- Eu também estudo e pratico C++ no Exercism. Clique <a href="https://exercism.org/tracks/cpp/exercises">aqui</a> para ver.
 
 <hr>
 
