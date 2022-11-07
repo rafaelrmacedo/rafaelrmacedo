@@ -9,7 +9,6 @@
 ## Estou aprendendo:
 - Java
 - C#
-- C++
 
 ## Minha atividade:
 <div>
@@ -22,10 +21,6 @@
 ## Minhas redes sociais:
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
-
-## Extra:
-
-- Eu também estudo e pratico C++ no Exercism. Clique <a href="https://exercism.org/tracks/cpp/exercises">aqui</a> para ver.
 
 <hr>
 
@@ -44,7 +39,6 @@
 ## I'm learning:
 - Java
 - C#
-- C++
 
 ## My coding activity:
 <div>
@@ -57,10 +51,6 @@
 ## My social networks:
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
-
-## Extra:
-  
-- I study and practice C++ at Exercism as well. Click <a href="https://exercism.org/tracks/cpp/exercises">here</a> to view.
 
 
 <!--
