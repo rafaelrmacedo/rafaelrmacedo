@@ -9,6 +9,7 @@
 ## Estou aprendendo:
 - Java
 - C#
+- C
 
 ## Minha atividade:
 <div>
@@ -39,6 +40,7 @@
 ## I'm learning:
 - Java
 - C#
+- C
 
 ## My coding activity:
 <div>
