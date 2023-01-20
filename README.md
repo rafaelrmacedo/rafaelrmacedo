@@ -8,7 +8,6 @@
 
 ## Estou aprendendo:
 - Java
-- C#
 - C
 
 ## Minha atividade:
@@ -39,7 +38,6 @@
 
 ## I'm learning:
 - Java
-- C#
 - C
 
 ## My coding activity:
