@@ -8,7 +8,8 @@
 
 ## Estou aprendendo:
 - Java
-- C
+- C++
+- React
 
 ## Minha atividade:
 <div>
