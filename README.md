@@ -39,7 +39,8 @@
 
 ## I'm learning:
 - Java
-- C
+- C++
+- React
 
 ## My coding activity:
 <div>
