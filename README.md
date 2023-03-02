@@ -56,7 +56,7 @@
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
 ## Extra  
-- I recently start learning cybersec as a hobby at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm).
+- Recently I started learning cybersec as a hobby at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm).
 
 
 <!--
