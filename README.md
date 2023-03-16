@@ -8,8 +8,7 @@
 
 ## Estou aprendendo:
 - Java
-- C++
-- React
+- Python
 
 ## Minha atividade:
 <div>
