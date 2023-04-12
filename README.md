@@ -7,7 +7,7 @@
 - 🖥️ 4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
 
 ## Estou aprendendo:
-- NodeJS
+- Java
 - Python
 
 ## Minha atividade:
@@ -38,7 +38,7 @@
 
 
 ## I'm learning:
-- NodeJS
+- Java
 - Python
 
 ## My coding activity:
