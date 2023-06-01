@@ -24,7 +24,7 @@
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
 ## Extra
-- Recentemente comecei estudar segurança da informação como hobby no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm).
+- Recentemente comecei estudar segurança da informação no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm).
 
 <!--PORTFOLIO EM INGLÊS-->
 
@@ -41,7 +41,7 @@
 ## I'm learning:
 - React
 - NodeJS
-- Python
+- Python 
 
 ## My coding activity:
 <div>
@@ -56,7 +56,7 @@
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
 ## Extra  
-- I'm studying cybersec as a hobby at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm).
+- I'm studying cybersec at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm).
 
 
 <!--
