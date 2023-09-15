@@ -24,7 +24,7 @@
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
 ## Extra
-- Recentemente comecei estudar segurança da informação no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm).
+- Estudo segurança da informação no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm).
 
 <!--PORTFOLIO EM INGLÊS-->
 
