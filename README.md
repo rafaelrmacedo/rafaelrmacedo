@@ -10,6 +10,7 @@
 - React
 - NodeJS
 - Python
+- Kotlin
 
 ## Minha atividade:
 <div>
