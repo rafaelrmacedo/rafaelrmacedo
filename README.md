@@ -3,14 +3,14 @@
 # Olá 👋 <br> Me chamo Rafael Macedo
 
 - 🙂 Tenho 19 anos
-- 📌 Moro em [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS
-- 🖥️ 4º ano como estudante de Técnico em Informátca - [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/)
+- 📌 Moro no Rio Grande do Sul, Brasil
+- 🖥️ 1º ano como estudante de engenharia de software na [Jala University](https://jala.university/pt/).
 
-## Estou aprendendo:
-- React
+## Estou estudando:
 - NodeJS
+- Java
 - Python
-- Kotlin
+  
 
 ## Minha atividade:
 <div>
@@ -24,8 +24,8 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
-## Extra
-- Estudo segurança da informação no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm).
+<!-- ## Extra
+- Estudo segurança da informação no site da [TryHackMe](https://tryhackme.com/). Meu perfil é [esse](https://tryhackme.com/p/rafaelrm). -->
 
 <!--PORTFOLIO EM INGLÊS-->
 
@@ -35,14 +35,14 @@
 # Hi there 👋 <br> I'm Rafael Macedo
 
 - 🙂 I'm 19 yo
-- 📌 I live in [Campo Bom](https://www.google.com/maps/place/Campo+Bom,+RS/@-29.6760875,-51.0495443,13z/data=!3m1!4b1!4m5!3m4!1s0x9519404def9b59b5:0xce6eb6fcdd2d22b5!8m2!3d-29.6747831!4d-51.0613111), RS
-- 🖥️ I study IT at [IFSul Sapiranga](https://www.instagram.com/ifsulsapiranga/) as veteran
+- 📌 I live in Rio Grande do Sul, Brazil
+- 🖥️ I study software engineering at [Jala University](https://jala.university/en/) as junior
 
 
-## I'm learning:
-- React
+## I'm studying:
 - NodeJS
-- Python 
+- Java
+- Python
 
 ## My coding activity:
 <div>
@@ -56,8 +56,8 @@
 - [LinkedIn](https://www.linkedin.com/in/rafael-macedo-656057216/)
 - [Instagram](https://www.instagram.com/rafaelrmacedo_/)
   
-## Extra  
-- I'm studying cybersec at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm).
+<!--## Extra  
+- I'm studying cybersec at [TryHackMe](https://tryhackme.com/). My profile is [here](https://tryhackme.com/p/rafaelrm). -->
 
 
 <!--
