@@ -2,16 +2,13 @@
 
 # Olá 👋 <br> Me chamo Rafael Macedo
 
-- 🙂 Tenho 19 anos
+- 🙂 Tenho 20 anos
 - 📌 Moro no Rio Grande do Sul, Brasil
 - 🖥️ 1º ano como estudante de engenharia de software na [Jala University](https://jala.university/pt/).
 
 ## Estou estudando:
 - NodeJS
-- Java
-- Python
   
-
 ## Minha atividade:
 <div>
   <a href="https://github.com/rafaelrmacedo">
@@ -34,16 +31,14 @@
 
 # Hi there 👋 <br> I'm Rafael Macedo
 
-- 🙂 I'm 19 yo
+- 🙂 I'm 20 yo
 - 📌 I live in Rio Grande do Sul, Brazil
 - 🖥️ I study software engineering at [Jala University](https://jala.university/en/) as junior
 
 
 ## I'm studying:
 - NodeJS
-- Java
-- Python
-
+  
 ## My coding activity:
 <div>
   <a href="https://github.com/rafaelrmacedo">
