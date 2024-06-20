@@ -6,8 +6,8 @@
 
 
 ## I'm studying:
-- AWS and Terraform
-- React Native
+- Java 
+- JS (Angular)
   
 ## My coding activity:
 <div>
