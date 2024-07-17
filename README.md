@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="600" height="100"  src="gifs/HelloWorld.gif">
-  <p> Hey! I'm Rafael Macedo, student of software engineering and a fullstack developer</p>
+  <h2> Hey! I'm Rafael Macedo, student of software engineering and a fullstack developer</h2>
 </div>
 
 <div align="center"> 
@@ -30,4 +30,4 @@
 
 <br>
 
-![Snake animation](https://github.com/rafaelrmacedo/rafaelrmacedo/blob/output/github-contribution-grid-snake-sissa.svg)
+<!-- ![Snake animation](https://github.com/rafaelrmacedo/rafaelrmacedo/blob/output/github-contribution-grid-snake-sissa.svg) -->
