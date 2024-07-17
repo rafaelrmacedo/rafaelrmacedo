@@ -1,13 +1,3 @@
-<style>
-@font-face {
-  font-family: "FiraMono";
-  src: url("./fonts/FiraMono-Bold.ttf");
-}
-.meu-texto {
-  font-family: "FiraMono", Arial, sans-serif;
-}
-</style>
-
 ![hello world](gif/HelloWorld.gif)
 
 <div align="center">
