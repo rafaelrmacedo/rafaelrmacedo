@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="600" height="100"  src="gifs/HelloWorld.gif">
-  <h2> Hey! I'm Rafael Macedo, student of software engineering and Backend Developer</h2>
+  <h2> Hey! 👋 I'm Rafael Macedo, student of software engineering and Backend Developer</h2>
 </div>
 
 <div align="center"> 
@@ -20,14 +20,9 @@
   <h3>💻 Technologies/Tools:</h3>
   <span>
     <img height="48" src="icons/java.svg" alt="Java">
-    <img height="48" src="icons/js.svg" alt="JavaScript">
-    <img height="48" src="icons/ts.svg" alt="TypeScript">
-    <img height="48" src="icons/reactjs.svg" alt="React.js">
-    <img height="48" src="icons/nodejs.svg" alt="Node.js">
-    <img height="48" src="icons/Figma.svg" alt="Figma">
+    <img height="48" src="icons/spring.svg" alt="Spring Framework">
+    <img height="48" src="icons/docker.svg" alt="Docker">
+    <img height="48" src="icons/nginx.svg" alt="Nginx Server">
+    <img height="48" src="icons/linux.svg" alt="Linux">
   </span>
 <div>
-
-<br>
-
-<!-- ![Snake animation](https://github.com/rafaelrmacedo/rafaelrmacedo/blob/output/github-contribution-grid-snake-sissa.svg) -->
