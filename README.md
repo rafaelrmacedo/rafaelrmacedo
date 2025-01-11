@@ -1,7 +1,6 @@
 ![hello world](gif/HelloWorld.gif)
 
 <div align="center">
-  <img width="600" height="100"  src="gifs/HelloWorld.gif">
   <h2> Hey! 👋 I'm Rafael Macedo, student of software engineering and Backend Developer</h2>
 </div>
 
