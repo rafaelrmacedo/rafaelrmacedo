@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="600" height="100"  src="gifs/HelloWorld.gif">
-  <h2> Hey! I'm Rafael Macedo, student of software engineering and a fullstack developer</h2>
+  <h2> Hey! I'm Rafael Macedo, student of software engineering and Backend Developer</h2>
 </div>
 
 <div align="center"> 
