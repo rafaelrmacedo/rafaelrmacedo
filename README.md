@@ -1,7 +1,7 @@
 ![hello world](gif/HelloWorld.gif)
 
 <div align="center">
-  <h2> Hey! 👋 My name is Rafael, I'm a student of software engineering and QA Junior</h2>
+  <h2>My name is Rafael, I'm a student of software engineering and QA Junior</h2>
 </div>
 
 <div align="center">
